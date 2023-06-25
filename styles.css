@@ -1,0 +1,39 @@
+* {
+    background-color:hsl(147, 50%, 47%);
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+  margin: auto;
+  color: hsl(147, 50%, 10%)
+
+}
+
+h2 {
+  color: hsl(147, 50%, 10%)
+}
+
+table, th, td {
+  border: 1px solid;
+  background-color: hsl(147, 50%, 90%);
+}
+table {
+    background-color: hsl(147, 50%, 30%);
+}
+
+.code {
+  font-family: monospace;
+}
+.Extra {
+  border: 5px, black;
+  font-family: Arial;
+  color: hsl(147, 50%, 90%);
+}
+.Extra h2 {
+ color: hsl(147, 50%, 90%);
+}
+#example {
+  font-family: monospace;
+  position: relative;
+  left: 50px;
+}
